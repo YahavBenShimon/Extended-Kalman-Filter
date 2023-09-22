@@ -17,5 +17,3 @@ providing a robust solution for tracking applications with complex dynamics.
 - Efficient handling of sensor noise and uncertainties.
 - Real-time processing capabilities.
 - Comprehensive documentation and examples.
-
-[Model Equations and Parameters.pdf](https://github.com/YahavBenShimon/Extended-Kalman-Filter/files/12703722/Model.Equations.and.Parameters.pdf)
