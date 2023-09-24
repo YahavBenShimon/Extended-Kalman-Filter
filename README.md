@@ -18,6 +18,6 @@ providing a robust solution for tracking applications with complex dynamics.
 - Real-time processing capabilities.
 - Comprehensive documentation and examples.
 
-- ## Contributors
+ ## Contributors
 - [Yahav Ben Shimon](https://github.com/YahavBenShimon)
 
