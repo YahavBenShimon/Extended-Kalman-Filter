@@ -17,3 +17,7 @@ providing a robust solution for tracking applications with complex dynamics.
 - Efficient handling of sensor noise and uncertainties.
 - Real-time processing capabilities.
 - Comprehensive documentation and examples.
+
+- ## Contributors
+- [Yahav Ben Shimon](https://github.com/YahavBenShimon)
+
